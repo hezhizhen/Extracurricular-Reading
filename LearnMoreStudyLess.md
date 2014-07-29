@@ -27,3 +27,25 @@ Introduction
     This book has two major goals. First, the holistic learning strategy should give you a model for how to learn better. By seeing the holistic learning strategy you have a basis for identifying your weaknesses and improving the way you learn. The second objective of this book is to provide a variety of learning techniques.
 
     Without an easily understandable theory of learning, it is difficult to make improvements.
+
+
+
+My Story
+
+    Self-learning has also occupied my time. I've taught myself several programming languages, business and writing skills and my bookshelf has hundreds of books I've read in just the past two years. I've also dabbled in graphic design, musical composition and anything I could get my hands on.
+
+    Up until this point, I'd just be another smart kid. "Gifted" might fit as well, although there are people whose mental feats would put my small achievements to shame. I'd be just another kid who got a more favorable genetic cocktail, had pushy parents or some sort of glandular accident.
+
+    And if you read this far, you could probably slap on arrogant and boastful.
+
+    Smarts requires a different strategy. Smart people had picked up different tactics. It was these different strategies that made the difference in understanding.
+
+    The different strategy I called holistic learning. I call it holistic learning because it challenges you to view learning as a comprehensive whole, instead of a list of memorized facts.
+
+    Smart people tend to make fewer distinctions between branches of knowledge and can easily relate one set of understandings to another.
+
+    By learning holistically, smart people are able to quickly integrate new information. More importantly, this information sticks. They actuallly "get" the concepts and see how the concepts relate to far more than just the problems given.
+
+    This student didn't just know how to get the answer. He also understood the entire scope for which the problem existed. Instead of seeing the problem in the same terms he had been taught, he could easily view it a number of ways.
+
+    The goal of holistic learning is to replicate this process with the information you want to learn.
