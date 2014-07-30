@@ -49,3 +49,15 @@ My Story
     This student didn't just know how to get the answer. He also understood the entire scope for which the problem existed. Instead of seeing the problem in the same terms he had been taught, he could easily view it a number of ways.
 
     The goal of holistic learning is to replicate this process with the information you want to learn.
+
+
+
+How to Use This Book
+    
+    These techniques can't rest just within an academic setting.
+
+    holistic learning needs to encompass anything you want to understand. The more broadly you can apply these methods, the better they function as a tool for increasing your understanding.
+
+    You'll get the best results if you focus on learning only one skill at a time.
+
+    
