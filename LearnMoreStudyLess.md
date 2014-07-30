@@ -61,3 +61,29 @@ How to Use This Book
     You'll get the best results if you focus on learning only one skill at a time.
 
     
+
+#Part 1: The Holistic Learning Strategy
+
+What is Holistic Learning?
+
+    Holistic learning is opposite of rote memorization.
+
+    Holistic learning takes a different approach. Instead of trying to memorize information by making a perfect copy in your brain, it uses the web of neurons you have.
+
+    Holistic learning creates webs of information. One idea relates to another idea.
+
+    That interrelating of ideas allows you to easily navigate through complete understandings.
+
+    Learning anything requires associations. The more associations you can create and the stronger those associations are, the better.
+
+    Learning doesn't fit into boxes. Learning fits into webs.
+
+    Holistic learners connect everything.
+
+    When you don't know the steps learning should follow and lack techniques to move through those steps, simply pounding information in your skull seems to work.
+
+    Holistic learning is based on three main ideas: Constructs; Models; Highways.
+
+    Holistic learning is based on linking ideas as a way of remembering and applying them. The best techniques to start learning are metaphor, visceralization, flow-based notetaking and diagraming. These methods form the foundation of holistic learning.
+
+
