@@ -87,3 +87,26 @@ What is Holistic Learning?
     Holistic learning is based on linking ideas as a way of remembering and applying them. The best techniques to start learning are metaphor, visceralization, flow-based notetaking and diagraming. These methods form the foundation of holistic learning.
 
 
+
+Constructs
+    
+    A constructs defines a set of tightly interlinked understandings.
+    (eg. A C++ construct defines all your knowledge about C++ and is the sum total of all the interconnected ideas about C++)
+    
+    Think of a construct as being like a city in your mind.
+    (Within a city you have thousands of buildings you can travel between. Some are big and important and are linked by roads to hundreds of other buildings in your city. Others are less important and only have a few dirt paths leading to them.)
+
+    Understanding is the result of a highly developed construct.
+
+    Ask yourself this question: In a city which building would be the easiest to locate?
+    (A) One that is connected to many other buildings through hundreds of roads, or
+    (B) One that has a simple dirt path connecting it to only one other building.
+
+    When building constructs, your goal is to create as many possible interconnections as possible between ideas. 
+    (As each concept comes up, it is automatically linked with other ideas)
+
+    Having a powerful construct comes from linking concepts together, one idea at a time.
+
+
+
+
