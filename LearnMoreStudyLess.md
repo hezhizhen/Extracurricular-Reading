@@ -109,4 +109,33 @@ Constructs
 
 
 
+Models
+
+    If constructs are the door to holistic learning, then models are the key,
+
+    Models are simplified constructs. They are snapshots of larger understandings designed to be portable and easy to store. Models are essential when trying to learn new concepts quickly.
+
+    A model for a book would be the table of contents.
+
+    Models can take a variety of forms. The goal, however, is always the same: compressing information.
+
+    By taking several core concepts and linking them together into one form, you create a model.
+
+    Models are essential when you are just starting to build a construct or making large additions to current constructs.
+
+    Models do not need to have perfect accuracy, they only need to combine several ideas to make them more manageable.
+
+    As my understanding of subspace grew, I made adjustments to my previous model and created new models.
+
+    Once I had a construct, I could build out that understanding and correct any errors.
+
+    A model only needs to be an existing understanding that compresses several key ideas into one.
+
+    Visualization is only one method to generate and expand models.
+
+    The takeaway point about models is that they act like seeds for constructs.
+
+    Like a small group of pioneers with compact building materials heading to fresh ground to start a new settlement, a compressed set of key ideas can be expanded.
+
+
 
